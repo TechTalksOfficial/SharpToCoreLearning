@@ -1,0 +1,24 @@
+# User-specific files
+*.rsuser
+
+# Auto-generated files
+GeneratedCode/
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio specific
+*.suo
+*.user
+*.sln.docstates
+
+# Resharper files
+*.DotSettings.user

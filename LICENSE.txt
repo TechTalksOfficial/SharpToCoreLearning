@@ -1,0 +1,8 @@
+Copyright (c) 2024 TechTalksOfficial
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this course and associated documentation (the "Course Materials"), to use and modify the Course Materials for personal or educational purposes, subject to the following conditions:
+
+- The above copyright notice shall be included in all copies or substantial portions of the Course Materials.
+- For contributing or commercial use, please contact the author for permission.
+
+THE COURSE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE COURSE MATERIALS OR THE USE OR OTHER DEALINGS IN THE COURSE.
