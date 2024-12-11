@@ -4,8 +4,8 @@ Welcome to **SharpToCoreLearning**, your step-by-step guide to mastering **C# Pr
 
 ---
 
-## 📅 **Course Start Date**  
-Lectures and course material will start uploading on **Wednesday, 11th December 2024 In Sha Allah**. Stay tuned!  
+## 📅 **Course Start Date Update**  
+We regret to inform you that the course content, originally planned to start on **Wednesday, 11th December 2024**, has been delayed. The new start date will be announced soon. Stay tuned for updates!  
 
 ---
 
